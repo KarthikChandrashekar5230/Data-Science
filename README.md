@@ -31,7 +31,7 @@ This repository contains projects based on following machine learning algorithms
  
  I have gone through the following course(s) in addition to my __Course in Data Science__ from *ExcelR Solutions*.
  
- * [Coursera Machine Learning Course](https://www.coursera.org/learn/machine-learning/)
+ * [Coursera Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning/)
  
  _____________________________________________________________________________________________________________________________
  
